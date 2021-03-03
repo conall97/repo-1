@@ -1,6 +1,6 @@
 
-#n = int(input("Enter number of rows: "))
-n = 5
+n = int(input("Enter number of rows: "))
+
 
 print("Pattern 1")
 for i in range(1, n+1):
